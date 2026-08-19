@@ -1,0 +1,7 @@
+{
+  "name": "실시간 트렌드",
+  "description": "네이버와 구글 데이터를 기반으로 실시간 급상승 검색어 순위 10개와 AI 트렌드 분석을 제공하는 위젯 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
